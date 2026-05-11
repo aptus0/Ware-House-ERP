@@ -69,6 +69,45 @@ The React app never connects directly to the database. It communicates only with
 
 ---
 
+## Screen Preview
+
+<p align="center">
+  <img src="docs/screenshots/screen-01.png" alt="WarehousePro ERP main interface preview" width="100%" />
+</p>
+
+<p align="center">
+  A modern warehouse ERP interface with secure authentication, operational dashboards, stock workflows, and management views.
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/screen-02.png" alt="WarehousePro ERP screen preview 2" />
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/screen-03.png" alt="WarehousePro ERP screen preview 3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Operational overview and day-to-day stock workflow screens</td>
+    <td align="center">Transfer, inventory, and product management flows</td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/screen-04.png" alt="WarehousePro ERP screen preview 4" />
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/screen-05.png" alt="WarehousePro ERP screen preview 5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Warehouse operations, approvals, and control panels</td>
+    <td align="center">Reporting-ready admin views for teams and managers</td>
+  </tr>
+</table>
+
+---
+
 ## Repository Structure
 
 ```text
